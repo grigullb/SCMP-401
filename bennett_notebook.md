@@ -1,7 +1,4 @@
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+test
+```c++
+//HEY
 ```
